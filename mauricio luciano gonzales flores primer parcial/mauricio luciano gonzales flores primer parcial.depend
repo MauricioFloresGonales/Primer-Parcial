@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1557231142 source:c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\actor.c
+
+1557234061 source:c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\fecha.c
+	"fecha.h"
+
+1557231087 source:c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\genero.c
+
+1557238569 source:c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"actor.h"
+	"fecha.h"
+	"genero.h"
+	"peliculas.h"
+
+1557234257 c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\actor.h
+
+1557233761 c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\fecha.h
+
+1557233761 c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\genero.h
+
+1557240558 c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\peliculas.h
+
+1557236598 source:c:\users\alumno\desktop\mauricio luciano gonzales flores primer parcial\peliculas.c
+	<stdio.h>
+	<string.h>
+	"peliculas.h"
+	"fecha.h"
+
